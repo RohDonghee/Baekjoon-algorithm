@@ -12,14 +12,11 @@
 - 알고리즘 실행 시간이 오래 걸린다. (시간복잡도가 높다)
 
 
-
-
-
+## ■ 백준 브루트포스 문제
 <details>
-<summary>토글 접기/펼치기</summary>
+<summary>1816</summary>
 <div markdown="1">
-
-안녕
+ㅁ
 
 </div>
 </details>
